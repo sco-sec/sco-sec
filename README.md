@@ -94,7 +94,7 @@ If you’re passionate about cybersecurity, ethical hacking, or technology, feel
 <h2 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="22"> GitHub Stats 📊</h2>
 
 <br/><br/>
-![](https://github-profile-trophy.vercel.app/?username=dev-angelist&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4) <br/><br/>
+![](https://github-profile-trophy.vercel.app/?username=sco-sec&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4) <br/><br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=dev-angelist&theme=tokyonight&hide_border=false)
 
 </div>

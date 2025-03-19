@@ -103,7 +103,7 @@ If you’re passionate about cybersecurity, ethical hacking, or technology, feel
 <hr/>
 
 <div align="center">
-<a href='https://buymeacoffee.com/sco-sec' target='_blank'><img height='74' style='border:0px;height:74px;' src='https://miro.medium.com/v2/resize:fit:1400/1*VJdus0nKuy1uNoByh5BN3w.png' border='0' alt='Buy Me a Coffee' /></a>
+<a href='https://buymeacoffee.com/scosec' target='_blank'><img height='74' style='border:0px;height:74px;' src='https://miro.medium.com/v2/resize:fit:1400/1*VJdus0nKuy1uNoByh5BN3w.png' border='0' alt='Buy Me a Coffee' /></a>
 </div>
 
 <br/>
